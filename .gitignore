@@ -1,0 +1,17 @@
+# Build folders
+Debug/
+Release/
+
+# STM32CubeIDE
+.settings/
+*.launch
+
+# Build artifacts
+*.elf
+*.hex
+*.bin
+*.map
+
+# OS junk
+.DS_Store
+Thumbs.db
