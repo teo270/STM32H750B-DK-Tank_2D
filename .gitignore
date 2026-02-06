@@ -12,6 +12,14 @@ Release/
 *.bin
 *.map
 
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
 # OS junk
 .DS_Store
 Thumbs.db
